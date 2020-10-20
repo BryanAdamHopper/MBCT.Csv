@@ -1,0 +1,2 @@
+
+"{"SerializedContentId":"bc49686c","Subjective":"<div><br></div><div><br></div>","Objective":"","Assessment":"<div><br bogus=\"1\"></div>","Plan":"<div><br bogus=\"1\"></div>","Note":""}"
